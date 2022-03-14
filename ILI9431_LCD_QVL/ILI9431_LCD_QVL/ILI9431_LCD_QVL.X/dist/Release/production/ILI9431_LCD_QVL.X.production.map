@@ -1,0 +1,1287 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+                              build/Release/production/_ext/1472/main.o (__subsf3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o) (__addsf3x)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+                              build/Release/production/_ext/1472/main.o (__divsf3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o) (__divsf3x)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                              build/Release/production/_ext/1472/main.o (__fixunssfsi)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+                              build/Release/production/_ext/1472/main.o (__floatunsisf)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_inf)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_nan)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_pscA)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_pscB)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o) (__fp_round)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_split3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_zero)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                              build/Release/production/_ext/1472/main.o (__mulsf3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o) (__mulsf3x)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulsi3.o)
+                              build/Release/production/_ext/1472/main.o (__mulsi3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+                              build/Release/production/_ext/1472/main.o (__udivmodhi4)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+                              build/Release/production/_ext/1472/main.o (__udivmodsi4)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                              C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5/crtatmega328p.o (exit)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+                              build/Release/production/_ext/1472/main.o (__do_copy_data)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+                              build/Release/production/_ext/1472/main.o (__do_clear_bss)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+                              build/Release/production/_ext/1472/main.o (__muluhisi3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o) (__umulhisi3)
+
+Allocating common symbols
+Common symbol       size              file
+
+PUNTO_0             0x2               build/Release/production/_ext/1472/main.o
+Var1                0x2               build/Release/production/_ext/1472/main.o
+A                   0x2               build/Release/production/_ext/1472/main.o
+PUNTO_3             0x2               build/Release/production/_ext/1472/main.o
+NUMERO_VECTOR       0x2               build/Release/production/_ext/1472/main.o
+Var5                0x2               build/Release/production/_ext/1472/main.o
+FAT16ClusEntryVal   0x2               build/Release/production/_ext/1472/main.o
+R_N                 0x2               build/Release/production/_ext/1472/main.o
+B                   0x2               build/Release/production/_ext/1472/main.o
+NUMERO_REFERENCIAL  0x2               build/Release/production/_ext/1472/main.o
+PUNTO               0x2               build/Release/production/_ext/1472/main.o
+Var2                0x2               build/Release/production/_ext/1472/main.o
+DOS                 0x2               build/Release/production/_ext/1472/main.o
+F_MBR               0x2               build/Release/production/_ext/1472/main.o
+DOS_2               0x2               build/Release/production/_ext/1472/main.o
+PUNTO_2             0x2               build/Release/production/_ext/1472/main.o
+RESOLUCION          0x2               build/Release/production/_ext/1472/main.o
+Ord                 0x2               build/Release/production/_ext/1472/main.o
+Var3                0x2               build/Release/production/_ext/1472/main.o
+PUNTO_1             0x2               build/Release/production/_ext/1472/main.o
+DOS_1               0x2               build/Release/production/_ext/1472/main.o
+Var4                0x2               build/Release/production/_ext/1472/main.o
+
+Discarded input sections
+
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .text          0x00000000        0x0 build/Release/production/_ext/1472/COMETARIOS.o
+ .data          0x00000000        0x0 build/Release/production/_ext/1472/COMETARIOS.o
+ .bss           0x00000000        0x0 build/Release/production/_ext/1472/COMETARIOS.o
+ .comment       0x00000000       0x31 build/Release/production/_ext/1472/COMETARIOS.o
+ .text          0x00000000        0x0 build/Release/production/_ext/1472/main.o
+ .data          0x00000000        0x0 build/Release/production/_ext/1472/main.o
+ .bss           0x00000000        0x0 build/Release/production/_ext/1472/main.o
+ .text.SEND_DATA
+                0x00000000       0x30 build/Release/production/_ext/1472/main.o
+ .text.BUSY_FLAG
+                0x00000000        0x8 build/Release/production/_ext/1472/main.o
+ .text.DESPLAZAMIENTO_POR_DIRECCIONES_CGRAM
+                0x00000000        0x6 build/Release/production/_ext/1472/main.o
+ .text.POSICIONES_DIRECCIONES_DDRAM
+                0x00000000        0x6 build/Release/production/_ext/1472/main.o
+ .text.CARACTERES_PERSONALIZADOS
+                0x00000000       0x30 build/Release/production/_ext/1472/main.o
+ .text.DESPLAZAMIENTO_DER
+                0x00000000       0x28 build/Release/production/_ext/1472/main.o
+ .text.DESPLAZAMIENTO_DER_PANTALLA
+                0x00000000       0x3c build/Release/production/_ext/1472/main.o
+ .text.CURSOR_INICIO
+                0x00000000        0x6 build/Release/production/_ext/1472/main.o
+ .text.B_ON     0x00000000        0x6 build/Release/production/_ext/1472/main.o
+ .text.B_OFF    0x00000000        0x6 build/Release/production/_ext/1472/main.o
+ .text.BORRAR_DIGITO
+                0x00000000        0x6 build/Release/production/_ext/1472/main.o
+ .text.LCD_PRINT
+                0x00000000       0x5c build/Release/production/_ext/1472/main.o
+ .text.ANALISIS_COMPROBADOR_DE_IGUALDAD_DE_DATOS
+                0x00000000       0x32 build/Release/production/_ext/1472/main.o
+ .text.CONVER_INT_CHAR
+                0x00000000      0x21e build/Release/production/_ext/1472/main.o
+ .text.LCD_PRINT_NUMERO
+                0x00000000       0x60 build/Release/production/_ext/1472/main.o
+ .text.SPI_STOP
+                0x00000000        0x6 build/Release/production/_ext/1472/main.o
+ .text.SPI_MASTER_INIT_INTERRUPTION
+                0x00000000       0x10 build/Release/production/_ext/1472/main.o
+ .text.SPI_MASTER_TRANSMITION_16_BITS_LCD
+                0x00000000       0x12 build/Release/production/_ext/1472/main.o
+ .text.SPI_Slave_Init_Interrupt
+                0x00000000        0xe build/Release/production/_ext/1472/main.o
+ .text.SPI_Slave_Init
+                0x00000000        0xa build/Release/production/_ext/1472/main.o
+ .text.SPI_RECEIVE_MODE_Slave_
+                0x00000000        0xa build/Release/production/_ext/1472/main.o
+ .text.SPI_RECEIVE_MODE_SLAVE_16BITS_
+                0x00000000        0x4 build/Release/production/_ext/1472/main.o
+ .text.INT_SD_MMC
+                0x00000000       0x2a build/Release/production/_ext/1472/main.o
+ .text.BLOCK_MEMORY_SET_SD_MMC
+                0x00000000       0x2a build/Release/production/_ext/1472/main.o
+ .text.WRITE_MEMORY_SD_MMC
+                0x00000000       0x7e build/Release/production/_ext/1472/main.o
+ .text.READ_AND_COPY_MEMORY_SD_MMC
+                0x00000000       0xf2 build/Release/production/_ext/1472/main.o
+ .text.READ_MEMORY_SD_MMC
+                0x00000000       0xce build/Release/production/_ext/1472/main.o
+ .text.READ_Root_Dir_MEMORY_SD_MMC
+                0x00000000      0x702 build/Release/production/_ext/1472/main.o
+ .text.SEARCH_CLUSTER_FILE
+                0x00000000      0x3c6 build/Release/production/_ext/1472/main.o
+ .text.READ_MEMORY_SD_INFO
+                0x00000000      0x32e build/Release/production/_ext/1472/main.o
+ .text.PARAMETER_ILI9431_8_BITS
+                0x00000000       0x34 build/Release/production/_ext/1472/main.o
+ .text._WRITE_PARAMETER_ILI9431_16_BITS
+                0x00000000       0x86 build/Release/production/_ext/1472/main.o
+ .text._READ_PARAMETER_ILI9431_8_BITS
+                0x00000000       0x82 build/Release/production/_ext/1472/main.o
+ .text.PARAMETER_ILI9431_16_BITS
+                0x00000000       0x38 build/Release/production/_ext/1472/main.o
+ .text.APAGAR_PANTALLA
+                0x00000000        0x6 build/Release/production/_ext/1472/main.o
+ .text.GENERADOR_DE_FORMAS_SD
+                0x00000000      0x478 build/Release/production/_ext/1472/main.o
+ .text.WRITE_I2C
+                0x00000000        0xc build/Release/production/_ext/1472/main.o
+ .text.START_COMUNICATION_I2C
+                0x00000000        0x8 build/Release/production/_ext/1472/main.o
+ .text.ENABLE_I2C_NOT_PULL_UP
+                0x00000000       0x56 build/Release/production/_ext/1472/main.o
+ .text.DISLABLE_I2C
+                0x00000000       0x50 build/Release/production/_ext/1472/main.o
+ .text.ERROR_I2C
+                0x00000000        0x2 build/Release/production/_ext/1472/main.o
+ .text.ESTATUS_I2C
+                0x00000000        0x8 build/Release/production/_ext/1472/main.o
+ .text.STOP_COMUNICATION_I2C
+                0x00000000        0x8 build/Release/production/_ext/1472/main.o
+ .bss.FAT32ClusEntryVal
+                0x00000000        0x4 build/Release/production/_ext/1472/main.o
+ .bss.SectorNumber
+                0x00000000        0x4 build/Release/production/_ext/1472/main.o
+ .bss.ThisFATEntOffset
+                0x00000000        0x4 build/Release/production/_ext/1472/main.o
+ .bss.ThisFATSecNum
+                0x00000000        0x4 build/Release/production/_ext/1472/main.o
+ .data.NUMERO_CLUSTER_VALIDO
+                0x00000000        0x4 build/Release/production/_ext/1472/main.o
+ .bss.FAT_Offset
+                0x00000000        0x4 build/Release/production/_ext/1472/main.o
+ .bss.FirstSectorOfCluster
+                0x00000000        0x2 build/Release/production/_ext/1472/main.o
+ .bss.PESO_FILE
+                0x00000000        0x1 build/Release/production/_ext/1472/main.o
+ .bss.FirstSectorofCluster
+                0x00000000        0x2 build/Release/production/_ext/1472/main.o
+ .bss.PESO_FILE_BYTE
+                0x00000000        0x4 build/Release/production/_ext/1472/main.o
+ .data.CONTROL_DE_CIONCIDENCIAS
+                0x00000000       0x3d build/Release/production/_ext/1472/main.o
+ .data.NUM_VECTOR_REFERENCIA_1
+                0x00000000       0x28 build/Release/production/_ext/1472/main.o
+ .data.NUM_VECTOR_REFERENCIA_0
+                0x00000000        0xa build/Release/production/_ext/1472/main.o
+ .bss.i         0x00000000        0x2 build/Release/production/_ext/1472/main.o
+ .data.DESFASE  0x00000000        0x2 build/Release/production/_ext/1472/main.o
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .text.avr-libc.fplib
+                0x00000000        0x8 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .text.avr-libc.fplib
+                0x00000000       0xdc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulsi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulsi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulsi3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000003         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5/crtatmega328p.o
+LOAD build/Release/production/_ext/1472/COMETARIOS.o
+LOAD build/Release/production/_ext/1472/main.o
+                0x00000001                __MPLAB_BUILD = 0x1
+START GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+END GROUP
+START GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a
+LOAD C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5\libatmega328p.a
+END GROUP
+                0x00020000                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                0x0000ffa0                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                0x00010000                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x00000003]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x00000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x00000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x00000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x265a
+ *(.vectors)
+ .vectors       0x00000000       0x68 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5/crtatmega328p.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+                0x00000068                . = ALIGN (0x2)
+                0x00000068                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000068        0x0 linker stubs
+ *(.trampolines*)
+                0x00000068                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem*)
+ .progmem.data.MENU
+                0x00000068        0x8 build/Release/production/_ext/1472/main.o
+                0x00000068                MENU
+ .progmem.data.SETTING
+                0x00000070        0x8 build/Release/production/_ext/1472/main.o
+                0x00000070                SETTING
+ .progmem.data.INICIO
+                0x00000078        0x8 build/Release/production/_ext/1472/main.o
+                0x00000078                INICIO
+ .progmem.data.ARIAL_NEGRITA_115
+                0x00000080       0x21 build/Release/production/_ext/1472/main.o
+                0x00000080                ARIAL_NEGRITA_115
+ .progmem.data.ARIAL_NEGRITA_114
+                0x000000a1       0x21 build/Release/production/_ext/1472/main.o
+                0x000000a1                ARIAL_NEGRITA_114
+ .progmem.data.ARIAL_NEGRITA_113
+                0x000000c2       0x21 build/Release/production/_ext/1472/main.o
+                0x000000c2                ARIAL_NEGRITA_113
+ .progmem.data.ARIAL_NEGRITA_112
+                0x000000e3       0x21 build/Release/production/_ext/1472/main.o
+                0x000000e3                ARIAL_NEGRITA_112
+ .progmem.data.ARIAL_NEGRITA_111
+                0x00000104       0x21 build/Release/production/_ext/1472/main.o
+                0x00000104                ARIAL_NEGRITA_111
+ .progmem.data.ARIAL_NEGRITA_110
+                0x00000125       0x21 build/Release/production/_ext/1472/main.o
+                0x00000125                ARIAL_NEGRITA_110
+ .progmem.data.ARIAL_NEGRITA_109
+                0x00000146       0x21 build/Release/production/_ext/1472/main.o
+                0x00000146                ARIAL_NEGRITA_109
+ .progmem.data.ARIAL_NEGRITA_108
+                0x00000167       0x21 build/Release/production/_ext/1472/main.o
+                0x00000167                ARIAL_NEGRITA_108
+ .progmem.data.ARIAL_NEGRITA_107
+                0x00000188       0x21 build/Release/production/_ext/1472/main.o
+                0x00000188                ARIAL_NEGRITA_107
+ .progmem.data.ARIAL_NEGRITA_106
+                0x000001a9       0x21 build/Release/production/_ext/1472/main.o
+                0x000001a9                ARIAL_NEGRITA_106
+ .progmem.data.ARIAL_NEGRITA_105
+                0x000001ca       0x21 build/Release/production/_ext/1472/main.o
+                0x000001ca                ARIAL_NEGRITA_105
+ .progmem.data.ARIAL_NEGRITA_104
+                0x000001eb       0x21 build/Release/production/_ext/1472/main.o
+                0x000001eb                ARIAL_NEGRITA_104
+ .progmem.data.ARIAL_NEGRITA_103
+                0x0000020c       0x21 build/Release/production/_ext/1472/main.o
+                0x0000020c                ARIAL_NEGRITA_103
+ .progmem.data.ARIAL_NEGRITA_102
+                0x0000022d       0x21 build/Release/production/_ext/1472/main.o
+                0x0000022d                ARIAL_NEGRITA_102
+ .progmem.data.ARIAL_NEGRITA_101
+                0x0000024e       0x21 build/Release/production/_ext/1472/main.o
+                0x0000024e                ARIAL_NEGRITA_101
+ .progmem.data.ARIAL_NEGRITA_100
+                0x0000026f       0x21 build/Release/production/_ext/1472/main.o
+                0x0000026f                ARIAL_NEGRITA_100
+ .progmem.data.ARIAL_NEGRITA_99
+                0x00000290       0x21 build/Release/production/_ext/1472/main.o
+                0x00000290                ARIAL_NEGRITA_99
+ .progmem.data.ARIAL_NEGRITA_98
+                0x000002b1       0x21 build/Release/production/_ext/1472/main.o
+                0x000002b1                ARIAL_NEGRITA_98
+ .progmem.data.ARIAL_NEGRITA_97
+                0x000002d2       0x21 build/Release/production/_ext/1472/main.o
+                0x000002d2                ARIAL_NEGRITA_97
+ .progmem.data.ARIAL_NEGRITA_96
+                0x000002f3       0x21 build/Release/production/_ext/1472/main.o
+                0x000002f3                ARIAL_NEGRITA_96
+ .progmem.data.ARIAL_NEGRITA_95
+                0x00000314       0x21 build/Release/production/_ext/1472/main.o
+                0x00000314                ARIAL_NEGRITA_95
+ .progmem.data.ARIAL_NEGRITA_94
+                0x00000335       0x21 build/Release/production/_ext/1472/main.o
+                0x00000335                ARIAL_NEGRITA_94
+ .progmem.data.ARIAL_NEGRITA_93
+                0x00000356       0x21 build/Release/production/_ext/1472/main.o
+                0x00000356                ARIAL_NEGRITA_93
+ .progmem.data.ARIAL_NEGRITA_92
+                0x00000377       0x21 build/Release/production/_ext/1472/main.o
+                0x00000377                ARIAL_NEGRITA_92
+ .progmem.data.ARIAL_NEGRITA_91
+                0x00000398       0x21 build/Release/production/_ext/1472/main.o
+                0x00000398                ARIAL_NEGRITA_91
+ .progmem.data.ARIAL_NEGRITA_90
+                0x000003b9       0x21 build/Release/production/_ext/1472/main.o
+                0x000003b9                ARIAL_NEGRITA_90
+ .progmem.data.ARIAL_NEGRITA_89
+                0x000003da       0x21 build/Release/production/_ext/1472/main.o
+                0x000003da                ARIAL_NEGRITA_89
+ .progmem.data.ARIAL_NEGRITA_88
+                0x000003fb       0x21 build/Release/production/_ext/1472/main.o
+                0x000003fb                ARIAL_NEGRITA_88
+ .progmem.data.ARIAL_NEGRITA_87
+                0x0000041c       0x21 build/Release/production/_ext/1472/main.o
+                0x0000041c                ARIAL_NEGRITA_87
+ .progmem.data.ARIAL_NEGRITA_86
+                0x0000043d       0x21 build/Release/production/_ext/1472/main.o
+                0x0000043d                ARIAL_NEGRITA_86
+ .progmem.data.ARIAL_NEGRITA_85
+                0x0000045e       0x21 build/Release/production/_ext/1472/main.o
+                0x0000045e                ARIAL_NEGRITA_85
+ .progmem.data.ARIAL_NEGRITA_84
+                0x0000047f       0x21 build/Release/production/_ext/1472/main.o
+                0x0000047f                ARIAL_NEGRITA_84
+ .progmem.data.ARIAL_NEGRITA_83
+                0x000004a0       0x21 build/Release/production/_ext/1472/main.o
+                0x000004a0                ARIAL_NEGRITA_83
+ .progmem.data.ARIAL_NEGRITA_82
+                0x000004c1       0x21 build/Release/production/_ext/1472/main.o
+                0x000004c1                ARIAL_NEGRITA_82
+ .progmem.data.ARIAL_NEGRITA_81
+                0x000004e2       0x21 build/Release/production/_ext/1472/main.o
+                0x000004e2                ARIAL_NEGRITA_81
+ .progmem.data.ARIAL_NEGRITA_80
+                0x00000503       0x21 build/Release/production/_ext/1472/main.o
+                0x00000503                ARIAL_NEGRITA_80
+ .progmem.data.ARIAL_NEGRITA_79
+                0x00000524       0x21 build/Release/production/_ext/1472/main.o
+                0x00000524                ARIAL_NEGRITA_79
+ .progmem.data.ARIAL_NEGRITA_78
+                0x00000545       0x21 build/Release/production/_ext/1472/main.o
+                0x00000545                ARIAL_NEGRITA_78
+ .progmem.data.ARIAL_NEGRITA_77
+                0x00000566       0x21 build/Release/production/_ext/1472/main.o
+                0x00000566                ARIAL_NEGRITA_77
+ .progmem.data.ARIAL_NEGRITA_76
+                0x00000587       0x21 build/Release/production/_ext/1472/main.o
+                0x00000587                ARIAL_NEGRITA_76
+ .progmem.data.ARIAL_NEGRITA_75
+                0x000005a8       0x21 build/Release/production/_ext/1472/main.o
+                0x000005a8                ARIAL_NEGRITA_75
+ .progmem.data.ARIAL_NEGRITA_74
+                0x000005c9       0x21 build/Release/production/_ext/1472/main.o
+                0x000005c9                ARIAL_NEGRITA_74
+ .progmem.data.ARIAL_NEGRITA_73
+                0x000005ea       0x21 build/Release/production/_ext/1472/main.o
+                0x000005ea                ARIAL_NEGRITA_73
+ .progmem.data.ARIAL_NEGRITA_72
+                0x0000060b       0x21 build/Release/production/_ext/1472/main.o
+                0x0000060b                ARIAL_NEGRITA_72
+ .progmem.data.ARIAL_NEGRITA_71
+                0x0000062c       0x21 build/Release/production/_ext/1472/main.o
+                0x0000062c                ARIAL_NEGRITA_71
+ .progmem.data.ARIAL_NEGRITA_70
+                0x0000064d       0x21 build/Release/production/_ext/1472/main.o
+                0x0000064d                ARIAL_NEGRITA_70
+ .progmem.data.ARIAL_NEGRITA_69
+                0x0000066e       0x21 build/Release/production/_ext/1472/main.o
+                0x0000066e                ARIAL_NEGRITA_69
+ .progmem.data.ARIAL_NEGRITA_68
+                0x0000068f       0x21 build/Release/production/_ext/1472/main.o
+                0x0000068f                ARIAL_NEGRITA_68
+ .progmem.data.ARIAL_NEGRITA_67
+                0x000006b0       0x21 build/Release/production/_ext/1472/main.o
+                0x000006b0                ARIAL_NEGRITA_67
+ .progmem.data.ARIAL_NEGRITA_66
+                0x000006d1       0x21 build/Release/production/_ext/1472/main.o
+                0x000006d1                ARIAL_NEGRITA_66
+ .progmem.data.ARIAL_NEGRITA_65
+                0x000006f2       0x21 build/Release/production/_ext/1472/main.o
+                0x000006f2                ARIAL_NEGRITA_65
+ .progmem.data.ARIAL_NEGRITA_64
+                0x00000713       0x21 build/Release/production/_ext/1472/main.o
+                0x00000713                ARIAL_NEGRITA_64
+ .progmem.data.ARIAL_NEGRITA_63
+                0x00000734       0x21 build/Release/production/_ext/1472/main.o
+                0x00000734                ARIAL_NEGRITA_63
+ .progmem.data.ARIAL_NEGRITA_62
+                0x00000755       0x21 build/Release/production/_ext/1472/main.o
+                0x00000755                ARIAL_NEGRITA_62
+ .progmem.data.ARIAL_NEGRITA_61
+                0x00000776       0x21 build/Release/production/_ext/1472/main.o
+                0x00000776                ARIAL_NEGRITA_61
+ .progmem.data.ARIAL_NEGRITA_60
+                0x00000797       0x21 build/Release/production/_ext/1472/main.o
+                0x00000797                ARIAL_NEGRITA_60
+ .progmem.data.ARIAL_NEGRITA_59
+                0x000007b8       0x21 build/Release/production/_ext/1472/main.o
+                0x000007b8                ARIAL_NEGRITA_59
+ .progmem.data.ARIAL_NEGRITA_58
+                0x000007d9       0x21 build/Release/production/_ext/1472/main.o
+                0x000007d9                ARIAL_NEGRITA_58
+ .progmem.data.ARIAL_NEGRITA_57
+                0x000007fa       0x21 build/Release/production/_ext/1472/main.o
+                0x000007fa                ARIAL_NEGRITA_57
+ .progmem.data.ARIAL_NEGRITA_56
+                0x0000081b       0x21 build/Release/production/_ext/1472/main.o
+                0x0000081b                ARIAL_NEGRITA_56
+ .progmem.data.ARIAL_NEGRITA_55
+                0x0000083c       0x21 build/Release/production/_ext/1472/main.o
+                0x0000083c                ARIAL_NEGRITA_55
+ .progmem.data.ARIAL_NEGRITA_54
+                0x0000085d       0x21 build/Release/production/_ext/1472/main.o
+                0x0000085d                ARIAL_NEGRITA_54
+ .progmem.data.ARIAL_NEGRITA_53
+                0x0000087e       0x21 build/Release/production/_ext/1472/main.o
+                0x0000087e                ARIAL_NEGRITA_53
+ .progmem.data.ARIAL_NEGRITA_52
+                0x0000089f       0x21 build/Release/production/_ext/1472/main.o
+                0x0000089f                ARIAL_NEGRITA_52
+ .progmem.data.ARIAL_NEGRITA_51
+                0x000008c0       0x21 build/Release/production/_ext/1472/main.o
+                0x000008c0                ARIAL_NEGRITA_51
+ .progmem.data.ARIAL_NEGRITA_50
+                0x000008e1       0x21 build/Release/production/_ext/1472/main.o
+                0x000008e1                ARIAL_NEGRITA_50
+ .progmem.data.ARIAL_NEGRITA_49
+                0x00000902       0x21 build/Release/production/_ext/1472/main.o
+                0x00000902                ARIAL_NEGRITA_49
+ .progmem.data.ARIAL_NEGRITA_48
+                0x00000923       0x21 build/Release/production/_ext/1472/main.o
+                0x00000923                ARIAL_NEGRITA_48
+ .progmem.data.ARIAL_NEGRITA_47
+                0x00000944       0x21 build/Release/production/_ext/1472/main.o
+                0x00000944                ARIAL_NEGRITA_47
+ .progmem.data.ARIAL_NEGRITA_46
+                0x00000965       0x21 build/Release/production/_ext/1472/main.o
+                0x00000965                ARIAL_NEGRITA_46
+ .progmem.data.ARIAL_NEGRITA_45
+                0x00000986       0x21 build/Release/production/_ext/1472/main.o
+                0x00000986                ARIAL_NEGRITA_45
+ .progmem.data.ARIAL_NEGRITA_44
+                0x000009a7       0x21 build/Release/production/_ext/1472/main.o
+                0x000009a7                ARIAL_NEGRITA_44
+ .progmem.data.ARIAL_NEGRITA_43
+                0x000009c8       0x21 build/Release/production/_ext/1472/main.o
+                0x000009c8                ARIAL_NEGRITA_43
+ .progmem.data.ARIAL_NEGRITA_42
+                0x000009e9       0x21 build/Release/production/_ext/1472/main.o
+                0x000009e9                ARIAL_NEGRITA_42
+ .progmem.data.ARIAL_NEGRITA_41
+                0x00000a0a       0x21 build/Release/production/_ext/1472/main.o
+                0x00000a0a                ARIAL_NEGRITA_41
+ .progmem.data.ARIAL_NEGRITA_40
+                0x00000a2b       0x21 build/Release/production/_ext/1472/main.o
+                0x00000a2b                ARIAL_NEGRITA_40
+ .progmem.data.ARIAL_NEGRITA_39
+                0x00000a4c       0x21 build/Release/production/_ext/1472/main.o
+                0x00000a4c                ARIAL_NEGRITA_39
+ .progmem.data.ARIAL_NEGRITA_38
+                0x00000a6d       0x21 build/Release/production/_ext/1472/main.o
+                0x00000a6d                ARIAL_NEGRITA_38
+ .progmem.data.ARIAL_NEGRITA_37
+                0x00000a8e       0x21 build/Release/production/_ext/1472/main.o
+                0x00000a8e                ARIAL_NEGRITA_37
+ .progmem.data.ARIAL_NEGRITA_36
+                0x00000aaf       0x21 build/Release/production/_ext/1472/main.o
+                0x00000aaf                ARIAL_NEGRITA_36
+ .progmem.data.ARIAL_NEGRITA_35
+                0x00000ad0       0x21 build/Release/production/_ext/1472/main.o
+                0x00000ad0                ARIAL_NEGRITA_35
+ .progmem.data.ARIAL_NEGRITA_34
+                0x00000af1       0x21 build/Release/production/_ext/1472/main.o
+                0x00000af1                ARIAL_NEGRITA_34
+ .progmem.data.ARIAL_NEGRITA_33
+                0x00000b12       0x21 build/Release/production/_ext/1472/main.o
+                0x00000b12                ARIAL_NEGRITA_33
+ .progmem.data.ARIAL_NEGRITA_32
+                0x00000b33       0x21 build/Release/production/_ext/1472/main.o
+                0x00000b33                ARIAL_NEGRITA_32
+ .progmem.data.ARIAL_NEGRITA_31
+                0x00000b54       0x21 build/Release/production/_ext/1472/main.o
+                0x00000b54                ARIAL_NEGRITA_31
+ .progmem.data.ARIAL_NEGRITA_30
+                0x00000b75       0x21 build/Release/production/_ext/1472/main.o
+                0x00000b75                ARIAL_NEGRITA_30
+ .progmem.data.ARIAL_NEGRITA_29
+                0x00000b96       0x21 build/Release/production/_ext/1472/main.o
+                0x00000b96                ARIAL_NEGRITA_29
+ .progmem.data.ARIAL_NEGRITA_28
+                0x00000bb7       0x21 build/Release/production/_ext/1472/main.o
+                0x00000bb7                ARIAL_NEGRITA_28
+ .progmem.data.ARIAL_NEGRITA_27
+                0x00000bd8       0x21 build/Release/production/_ext/1472/main.o
+                0x00000bd8                ARIAL_NEGRITA_27
+ .progmem.data.ARIAL_NEGRITA_26
+                0x00000bf9       0x21 build/Release/production/_ext/1472/main.o
+                0x00000bf9                ARIAL_NEGRITA_26
+ .progmem.data.ARIAL_NEGRITA_25
+                0x00000c1a       0x21 build/Release/production/_ext/1472/main.o
+                0x00000c1a                ARIAL_NEGRITA_25
+ .progmem.data.ARIAL_NEGRITA_24
+                0x00000c3b       0x21 build/Release/production/_ext/1472/main.o
+                0x00000c3b                ARIAL_NEGRITA_24
+ .progmem.data.ARIAL_NEGRITA_23
+                0x00000c5c       0x21 build/Release/production/_ext/1472/main.o
+                0x00000c5c                ARIAL_NEGRITA_23
+ .progmem.data.ARIAL_NEGRITA_22
+                0x00000c7d       0x21 build/Release/production/_ext/1472/main.o
+                0x00000c7d                ARIAL_NEGRITA_22
+ .progmem.data.ARIAL_21
+                0x00000c9e       0x21 build/Release/production/_ext/1472/main.o
+                0x00000c9e                ARIAL_21
+ .progmem.data.ARIAL_20
+                0x00000cbf       0x21 build/Release/production/_ext/1472/main.o
+                0x00000cbf                ARIAL_20
+                0x00000ce0                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000ce0                __ctors_start = .
+ *(.ctors)
+                0x00000ce0                __ctors_end = .
+                0x00000ce0                __dtors_start = .
+ *(.dtors)
+                0x00000ce0                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000ce0        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5/crtatmega328p.o
+                0x00000ce0                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000ce0        0xc C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000cec       0x16 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+                0x00000cec                __do_copy_data
+ .init4         0x00000d02       0x10 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+                0x00000d02                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000d12        0x8 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ *(.init9)
+ *(.text)
+ .text          0x00000d1a        0x4 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5/crtatmega328p.o
+                0x00000d1a                __vector_22
+                0x00000d1a                __vector_1
+                0x00000d1a                __vector_24
+                0x00000d1a                __vector_12
+                0x00000d1a                __bad_interrupt
+                0x00000d1a                __vector_6
+                0x00000d1a                __vector_3
+                0x00000d1a                __vector_23
+                0x00000d1a                __vector_25
+                0x00000d1a                __vector_11
+                0x00000d1a                __vector_13
+                0x00000d1a                __vector_17
+                0x00000d1a                __vector_19
+                0x00000d1a                __vector_7
+                0x00000d1a                __vector_5
+                0x00000d1a                __vector_4
+                0x00000d1a                __vector_9
+                0x00000d1a                __vector_2
+                0x00000d1a                __vector_21
+                0x00000d1a                __vector_15
+                0x00000d1a                __vector_8
+                0x00000d1a                __vector_14
+                0x00000d1a                __vector_10
+                0x00000d1a                __vector_16
+                0x00000d1a                __vector_18
+                0x00000d1a                __vector_20
+                0x00000d1e                . = ALIGN (0x2)
+ *(.text.*)
+ .text.PAUSE_FLUJO
+                0x00000d1e       0x72 build/Release/production/_ext/1472/main.o
+                0x00000d1e                PAUSE_FLUJO
+ .text.SET_COMANDS
+                0x00000d90       0x2a build/Release/production/_ext/1472/main.o
+                0x00000d90                SET_COMANDS
+ .text.LIMPIAR_PANTALLA
+                0x00000dba        0x6 build/Release/production/_ext/1472/main.o
+                0x00000dba                LIMPIAR_PANTALLA
+ .text.LCD_STAR
+                0x00000dc0      0x170 build/Release/production/_ext/1472/main.o
+                0x00000dc0                LCD_STAR
+ .text.PIN_CONFIG_SPI
+                0x00000f30        0xa build/Release/production/_ext/1472/main.o
+                0x00000f30                PIN_CONFIG_SPI
+ .text.SPI_MASTER_INIT
+                0x00000f3a       0x1c build/Release/production/_ext/1472/main.o
+                0x00000f3a                SPI_MASTER_INIT
+ .text.SPI_MASTER_TRANSMITION_8_BITS
+                0x00000f56        0xa build/Release/production/_ext/1472/main.o
+                0x00000f56                SPI_MASTER_TRANSMITION_8_BITS
+ .text.SPI_MASTER_TRANSMITION_16_BITS
+                0x00000f60       0x12 build/Release/production/_ext/1472/main.o
+                0x00000f60                SPI_MASTER_TRANSMITION_16_BITS
+ .text.SPI_RECEIVE_MODE_MASTER_
+                0x00000f72        0xe build/Release/production/_ext/1472/main.o
+                0x00000f72                SPI_RECEIVE_MODE_MASTER_
+ .text.SPI_RECEIVE_MODE_MASTER_16BITS_
+                0x00000f80       0x22 build/Release/production/_ext/1472/main.o
+                0x00000f80                SPI_RECEIVE_MODE_MASTER_16BITS_
+ .text.RESET_SD_MMC
+                0x00000fa2       0x32 build/Release/production/_ext/1472/main.o
+                0x00000fa2                RESET_SD_MMC
+ .text.CUSTOM_CMD_SET_SD_MMC
+                0x00000fd4       0x4c build/Release/production/_ext/1472/main.o
+                0x00000fd4                CUSTOM_CMD_SET_SD_MMC
+ .text.CUSTOM_CMD_SET_SD
+                0x00001020       0x40 build/Release/production/_ext/1472/main.o
+                0x00001020                CUSTOM_CMD_SET_SD
+ .text.READ_MBR
+                0x00001060      0x75c build/Release/production/_ext/1472/main.o
+                0x00001060                READ_MBR
+ .text.COMMAND_ILI9431_8_BITS
+                0x000017bc       0x46 build/Release/production/_ext/1472/main.o
+                0x000017bc                COMMAND_ILI9431_8_BITS
+ .text._WRITE_PARAMETER_ILI9431_8_BITS
+                0x00001802       0x76 build/Release/production/_ext/1472/main.o
+                0x00001802                _WRITE_PARAMETER_ILI9431_8_BITS
+ .text.ENCENDER_PANTALLA
+                0x00001878        0x6 build/Release/production/_ext/1472/main.o
+                0x00001878                ENCENDER_PANTALLA
+ .text.GENERADOR_DE_COLOR
+                0x0000187e       0x9a build/Release/production/_ext/1472/main.o
+                0x0000187e                GENERADOR_DE_COLOR
+ .text.GENERADOR_DE_LETRAS
+                0x00001918      0x20e build/Release/production/_ext/1472/main.o
+                0x00001918                GENERADOR_DE_LETRAS
+ .text.GENERADOR_DE_CADENAS
+                0x00001b26       0xca build/Release/production/_ext/1472/main.o
+                0x00001b26                GENERADOR_DE_CADENAS
+ .text.CONVER_INT_CHAR_ILI9431
+                0x00001bf0      0x222 build/Release/production/_ext/1472/main.o
+                0x00001bf0                CONVER_INT_CHAR_ILI9431
+ .text.GENERADOR_DE_FORMAS
+                0x00001e12      0x100 build/Release/production/_ext/1472/main.o
+                0x00001e12                GENERADOR_DE_FORMAS
+ .text.GENERADOR_GEOMETRICO
+                0x00001f12       0x92 build/Release/production/_ext/1472/main.o
+                0x00001f12                GENERADOR_GEOMETRICO
+ .text.ENABLE_I2C_PULL_UP
+                0x00001fa4       0x58 build/Release/production/_ext/1472/main.o
+                0x00001fa4                ENABLE_I2C_PULL_UP
+ .text.ESPERA_I2C
+                0x00001ffc        0xa build/Release/production/_ext/1472/main.o
+                0x00001ffc                ESPERA_I2C
+ .text.READ_I2C_ACK
+                0x00002006       0x10 build/Release/production/_ext/1472/main.o
+                0x00002006                READ_I2C_ACK
+ .text.READ_I2C_NACK
+                0x00002016       0x10 build/Release/production/_ext/1472/main.o
+                0x00002016                READ_I2C_NACK
+ .text.startup.main
+                0x00002026      0x242 build/Release/production/_ext/1472/main.o
+                0x00002026                main
+ .text.avr-libc.fplib
+                0x00002268        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+                0x00002268                __subsf3
+                0x0000226a                __addsf3
+ .text.avr-libc.fplib
+                0x00002276       0xcc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+                0x00002298                __addsf3x
+ .text.avr-libc.fplib
+                0x00002342       0x5e c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                0x00002342                __fixunssfsi
+ .text.avr-libc.fplib
+                0x000023a0       0x7a c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+                0x000023a0                __floatunsisf
+                0x000023a4                __floatsisf
+ .text.avr-libc.fplib
+                0x0000241a        0xc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                0x0000241a                __fp_inf
+ .text.avr-libc.fplib
+                0x00002426        0x6 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                0x00002426                __fp_nan
+ .text.avr-libc.fplib
+                0x0000242c        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                0x0000242c                __fp_pscA
+ .text.avr-libc.fplib
+                0x0000243a        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                0x0000243a                __fp_pscB
+ .text.avr-libc.fplib
+                0x00002448       0x22 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                0x00002448                __fp_round
+ .text.avr-libc.fplib
+                0x0000246a       0x44 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                0x0000246a                __fp_split3
+                0x0000247a                __fp_splitA
+ .text.avr-libc.fplib
+                0x000024ae        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                0x000024ae                __fp_zero
+                0x000024b0                __fp_szero
+ .text.avr-libc.fplib
+                0x000024bc        0x8 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                0x000024bc                __mulsf3
+ .text.avr-libc.fplib
+                0x000024c4       0xd2 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                0x000024e2                __mulsf3x
+                0x000024e8                __mulsf3_pse
+ .text.libgcc.mul
+                0x00002596       0x20 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_mulsi3.o)
+                0x00002596                __mulsi3
+ .text.libgcc.div
+                0x000025b6       0x28 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+                0x000025b6                __udivmodhi4
+ .text.libgcc.div
+                0x000025de       0x44 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+                0x000025de                __udivmodsi4
+ .text.libgcc.mul
+                0x00002622       0x16 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+                0x00002622                __muluhisi3
+ .text.libgcc.mul
+                0x00002638       0x1e c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+                0x00002638                __umulhisi3
+                0x00002656                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00002656        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                0x00002656                _exit
+                0x00002656                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00002656        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x0000265a                _etext = .
+
+.data           0x00800100      0x1bc load address 0x0000265a
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ *(.data*)
+ .data.PANTALLA_1
+                0x00800100        0x6 build/Release/production/_ext/1472/main.o
+                0x00800100                PANTALLA_1
+ .data.ARIAL_FONT_32
+                0x00800106       0xc0 build/Release/production/_ext/1472/main.o
+                0x00800106                ARIAL_FONT_32
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ .rodata        0x008001c6       0xd0 build/Release/production/_ext/1472/main.o
+ *(.rodata*)
+ .rodata.str1.1
+                0x00800296       0x26 build/Release/production/_ext/1472/main.o
+ *(.gnu.linkonce.r*)
+                0x008002bc                . = ALIGN (0x2)
+                0x008002bc                _edata = .
+                0x008002bc                PROVIDE (__data_end, .)
+
+.bss            0x008002bc       0x77
+                0x008002bc                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.SIZE_FAT  0x008002bc        0x4 build/Release/production/_ext/1472/main.o
+                0x008002bc                SIZE_FAT
+ .bss.TYPPE_FAT
+                0x008002c0        0x4 build/Release/production/_ext/1472/main.o
+                0x008002c0                TYPPE_FAT
+ .bss.FirstDataSector
+                0x008002c4        0x4 build/Release/production/_ext/1472/main.o
+                0x008002c4                FirstDataSector
+ .bss.FirstRootDirSecNum
+                0x008002c8        0x4 build/Release/production/_ext/1472/main.o
+                0x008002c8                FirstRootDirSecNum
+ .bss.TmpVal2   0x008002cc        0x4 build/Release/production/_ext/1472/main.o
+                0x008002cc                TmpVal2
+ .bss.FAT_AND_DATA_REGION
+                0x008002d0        0x4 build/Release/production/_ext/1472/main.o
+                0x008002d0                FAT_AND_DATA_REGION
+ .bss.DskSize   0x008002d4        0x4 build/Release/production/_ext/1472/main.o
+                0x008002d4                DskSize
+ .bss.CountofClusters
+                0x008002d8        0x4 build/Release/production/_ext/1472/main.o
+                0x008002d8                CountofClusters
+ .bss.DataSec   0x008002dc        0x4 build/Release/production/_ext/1472/main.o
+                0x008002dc                DataSec
+ .bss.TotSec    0x008002e0        0x4 build/Release/production/_ext/1472/main.o
+                0x008002e0                TotSec
+ .bss.FATSz     0x008002e4        0x4 build/Release/production/_ext/1472/main.o
+                0x008002e4                FATSz
+ .bss.RootDirSectors
+                0x008002e8        0x2 build/Release/production/_ext/1472/main.o
+                0x008002e8                RootDirSectors
+ .bss.BPB_RootClu
+                0x008002ea        0x4 build/Release/production/_ext/1472/main.o
+                0x008002ea                BPB_RootClu
+ .bss.BS_VolID  0x008002ee        0x4 build/Release/production/_ext/1472/main.o
+                0x008002ee                BS_VolID
+ .bss.BPB_FATz32
+                0x008002f2        0x4 build/Release/production/_ext/1472/main.o
+                0x008002f2                BPB_FATz32
+ .bss.BPB_FATz16
+                0x008002f6        0x2 build/Release/production/_ext/1472/main.o
+                0x008002f6                BPB_FATz16
+ .bss.BPB_TotSec32
+                0x008002f8        0x4 build/Release/production/_ext/1472/main.o
+                0x008002f8                BPB_TotSec32
+ .bss.BPB_TotSec16
+                0x008002fc        0x2 build/Release/production/_ext/1472/main.o
+                0x008002fc                BPB_TotSec16
+ .bss.BPB_RootEntCnt
+                0x008002fe        0x2 build/Release/production/_ext/1472/main.o
+                0x008002fe                BPB_RootEntCnt
+ .bss.BPB_RsvdSecCnt
+                0x00800300        0x2 build/Release/production/_ext/1472/main.o
+                0x00800300                BPB_RsvdSecCnt
+ .bss.BPB_BytsPerSec
+                0x00800302        0x2 build/Release/production/_ext/1472/main.o
+                0x00800302                BPB_BytsPerSec
+ .bss.BPB_Media
+                0x00800304        0x1 build/Release/production/_ext/1472/main.o
+                0x00800304                BPB_Media
+ .bss.BPB_SecPerClus
+                0x00800305        0x1 build/Release/production/_ext/1472/main.o
+                0x00800305                BPB_SecPerClus
+ .bss.BPB_NumFATs
+                0x00800306        0x1 build/Release/production/_ext/1472/main.o
+                0x00800306                BPB_NumFATs
+ *(COMMON)
+ COMMON         0x00800307       0x2c build/Release/production/_ext/1472/main.o
+                0x00800307                PUNTO_0
+                0x00800309                Var1
+                0x0080030b                A
+                0x0080030d                PUNTO_3
+                0x0080030f                NUMERO_VECTOR
+                0x00800311                Var5
+                0x00800313                FAT16ClusEntryVal
+                0x00800315                R_N
+                0x00800317                B
+                0x00800319                NUMERO_REFERENCIAL
+                0x0080031b                PUNTO
+                0x0080031d                Var2
+                0x0080031f                DOS
+                0x00800321                F_MBR
+                0x00800323                DOS_2
+                0x00800325                PUNTO_2
+                0x00800327                RESOLUCION
+                0x00800329                Ord
+                0x0080032b                Var3
+                0x0080032d                PUNTO_1
+                0x0080032f                DOS_1
+                0x00800331                Var4
+                0x00800333                PROVIDE (__bss_end, .)
+                0x0000265a                __data_load_start = LOADADDR (.data)
+                0x00002816                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00800333        0x0
+                [!provide]                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                PROVIDE (__noinit_end, .)
+                0x00800333                _end = .
+                [!provide]                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x30
+ *(.comment)
+ .comment       0x00000000       0x30 build/Release/production/_ext/1472/main.o
+                                 0x31 (size before relaxing)
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x40
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x40 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5/crtatmega328p.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000      0x5f4
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x5f4 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5/crtatmega328p.o
+
+.debug_abbrev   0x00000000      0x5a2
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x5a2 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5/crtatmega328p.o
+
+.debug_line     0x00000000      0x133
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x133 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5/crtatmega328p.o
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x00000000      0x208
+ *(.debug_str)
+ .debug_str     0x00000000      0x208 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.2.209/gcc/dev/atmega328p/avr5/crtatmega328p.o
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(dist/Release/production/ILI9431_LCD_QVL.X.production.elf elf32-avr)
+LOAD linker stubs

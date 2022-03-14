@@ -1,0 +1,1 @@
+MANUAL.d MANUAL.o: .././MANUAL.c

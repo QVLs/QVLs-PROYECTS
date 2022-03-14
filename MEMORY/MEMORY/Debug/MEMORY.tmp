@@ -1,0 +1,30 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\el_lu\Documents\Atmel Studio\7.0\MEMORY\MEMORY\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\el_lu\Documents\Atmel Studio\7.0\MEMORY\MEMORY\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\el_lu\Documents\Atmel Studio\7.0\MEMORY\MEMORY\Debug\MEMORY.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>MEMORY.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>MEMORY.map</FILE>
+  <FILE>MEMORY.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <HOME><FILE>C:\Users\el_lu\Documents\Atmel Studio\7.0\MEMORY\MEMORY\main.asm</FILE><LINE>33</LINE></HOME>
+  <PERIODO><FILE>C:\Users\el_lu\Documents\Atmel Studio\7.0\MEMORY\MEMORY\main.asm</FILE><LINE>20</LINE></PERIODO>
+  <LOOP1><FILE>C:\Users\el_lu\Documents\Atmel Studio\7.0\MEMORY\MEMORY\main.asm</FILE><LINE>26</LINE></LOOP1>
+  <start><FILE>C:\Users\el_lu\Documents\Atmel Studio\7.0\MEMORY\MEMORY\main.asm</FILE><LINE>34</LINE></start>
+ </LABELS>
+</ASSEMBLER_INFO>
